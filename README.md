@@ -1,4 +1,4 @@
-# appointy_tech_task
+## Appointy_tech_task
 
 # ⚙️Installation
 •Clone our repository ```git clone https://github.com/Amankumar1456/appointy_tech_task.git```
